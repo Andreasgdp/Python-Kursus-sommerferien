@@ -1,5 +1,5 @@
 # Pseudocode
-Pseudocode er et godt værktøj at kunne behærske, da det giver overblik over éns program både før og efter, at man har skrevet selve koden. Den smarste måde at benytte sig af pseudocode, i min mening, er, at skrive programmet ned i pseudocode først og derefter skrive selve koden. Her er et eksempel:
+Pseudocode er et godt værktøj at kunne behærske, da det giver overblik over éns program både før og efter, at man har skrevet selve koden. Den smarteste måde at benytte sig af pseudocode, i min mening, er, at skrive programmet ned i pseudocode først og derefter skrive selve koden. Her er et eksempel:
 
 ___
 ## Eksempel 1
@@ -13,7 +13,7 @@ Her er et program, som skal vurdere, om en elev har bestået:
 Dette pseudocode omskrives så til kode:
 ```python
 # Hvis en elevs karakter er mere end- eller lig med 02
-if karakter <= 02:
+if karakter <= int('02'):
   # Print 'Eleven er bestået'
   print('Eleven er bestået')
 else:
