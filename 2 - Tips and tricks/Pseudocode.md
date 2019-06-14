@@ -13,7 +13,7 @@ Her er et program, som skal vurdere, om en elev har bestået:
 Dette pseudocode omskrives så til kode:
 ```python
 # Hvis en elevs karakter er mere end- eller lig med 02
-if karakter <= int('02'):
+if karakter >= int('02'):
   # Print 'Eleven er bestået'
   print('Eleven er bestået')
 else:
