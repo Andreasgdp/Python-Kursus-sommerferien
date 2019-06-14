@@ -12,3 +12,4 @@ Dette repository indeholder en række lektioner med informationer og opgaver, so
 
 Dette er en test
 Test 2
+Test 3
