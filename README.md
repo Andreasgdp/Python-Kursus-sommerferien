@@ -5,3 +5,7 @@ Dette repository indeholder en række lektioner med informationer og opgaver, so
 <p align="center">
   <img width="800" height="800" src="https://i.imgur.com/vvGEGqu.jpg">
 </p>
+
+---
+## Setup af kursus-mappen
+...
