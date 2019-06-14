@@ -1,0 +1,28 @@
+# Pseudocode
+Pseudocode er et godt værktøj at kunne behærske, da det giver overblik over éns program både før og efter, at man har skrevet selve koden. Den smarste måde at benytte sig af pseudocode, i min mening, er, at skrive programmet ned i pseudocode først og derefter skrive selve koden. Her er et eksempel:
+
+___
+## Eksempel 1
+Her er et program, som skal vurdere, om en elev har bestået:
+```python
+# Hvis en elevs karakter er mere end- eller lig med 02
+  # Print 'Eleven er bestået'
+# Else
+  # Print 'Eleven er dumpet'
+```
+Dette pseudocode omskrives så til kode:
+```python
+# Hvis en elevs karakter er mere end- eller lig med 02
+if karakter <= 02:
+  # Print 'Eleven er bestået'
+  print('Eleven er bestået')
+else:
+  # Print 'Eleven er dumpet'
+  print('Eleven er dumpet')
+```
+Jeg foretrækker ofstest at efterlade det meste af kommentarerne, da det kan være med til at give et hurtigt overblik af koden. Dog, hvis det er meget simple linjer som `# else`, behøves det ikke at blive beholdt.
+___
+
+Dette er et meget kort og simpelt eksempel, men det gælder også for længere og mere komplekse elemter af programmer. Dog anbefaler jeg ikke at skrive hele éns program udelukkende i pseudocode først. 
+
+Jeg mener at det er en god idé også at teste koden ud, som programmet bygges, så man bliver bekreftet i, at ens idéer til programmet også virker.
