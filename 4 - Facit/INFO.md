@@ -1,0 +1,2 @@
+# Information til facit
+I denne mappe findes facit til alle opgaverne. Hvis de ikke ligger herinde endnu, er det fordi, vi endnu ikke har gennemgået opgaverne, hvorfor I selvfølgelig ikke skal have adgang til facit inden 😁
