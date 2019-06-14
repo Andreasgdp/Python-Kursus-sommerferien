@@ -9,3 +9,4 @@ Dette repository indeholder en række lektioner med informationer og opgaver, so
 ---
 ## Setup af kursus-mappen
 ...
+Dette er en test
