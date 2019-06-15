@@ -1,0 +1,3 @@
+# Lektioner
+I denne mappe ligger alle lektionerne for kurset. Hver lektion har en fil `Opgaver.md`, som indeholder alle opgaverne for den lektion. Derudover har hver lektion, med mindre der er skrevet andet, sin egen introduktion, som skal klargøre deltageren på den pågældende lektion.
+Udover `Opgaver.md`, kan en lektion også have nogle filer/mapper, som tilhører en af opgaverne; en opgave-fil/-mappe kan hedde `Opgave 1.py` (det kommer alt sammen an på opgaven, og hvilken filtype filen er).
