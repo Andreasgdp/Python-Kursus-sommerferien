@@ -11,7 +11,7 @@
 - Letlæselig kode
   - Mest for én selv, men også for andre programmører, som læser koden
 - Brugervenlig kode
-  - At følge disse regler er en anden måde at dokumenterer éns kode
+  - At følge disse regler er en anden måde at dokumentere éns kode
   - Det gør det også lettere for programmører (skriver man f.eks. koden til et bibliotek er det vigtig, at koden følger de regler, som de fleste kender til)
 
 ---
