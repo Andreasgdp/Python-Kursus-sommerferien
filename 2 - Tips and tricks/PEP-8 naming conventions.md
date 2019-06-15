@@ -7,7 +7,7 @@
   - https://www.python.org/dev/peps/pep-0008/
 
 
-## Hvorfor vil man dog i alverden følge disse regner?
+## Hvorfor i alverden vil man dog følge disse regner?
 - Letlæselig kode
   - Mest for én selv, men også for andre programmører, som læser koden
 - Brugervenlig kode
