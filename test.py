@@ -1,5 +1,6 @@
-min_streng = 'Dette er en streng, jeg skal bruge til et eller andet'
+num_1 = 100_000_000_000
+num_2 = 100_000_000
 
-# type(min_streng)
+total = num_1 + num_2
 
-help(str)
+print(f'{total:,}')
