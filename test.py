@@ -1,6 +1,6 @@
-num_1 = 100_000_000_000
-num_2 = 100_000_000
+fornavne = ['Jens', 'Flemming', 'Jan', 'Hans']
+mellemnavne = ['Dragelund', 'Bamse', 'And', 'Gustav']
+efternavne = ['Jensen', 'Flemmingsen', 'Jansen', 'Hansen']
 
-total = num_1 + num_2
-
-print(f'{total:,}')
+for fornavn, mellemnavn, efternavn in zip(fornavne, mellemnavne, efternavne):
+  print(f'{fornavn} har mellemnavnet {mellemnavn} & efternavnet {efternavn}')
