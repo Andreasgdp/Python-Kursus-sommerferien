@@ -1,5 +1,5 @@
-# Opgaver til anden lektion
-Heri findes opgaverne til anden lektion omhandlende manipulation af objekter.
+# Opgaver til fjerde lektion
+Heri findes opgaverne til fjerde lektion omhandlende manipulation af objekter.
 
 ---
 ## Opgave 1
