@@ -27,7 +27,10 @@ help(math)
 
   -- More --
 '''
-# ">>>" Betyder, at det bliver kørt i terminalen.
+# ">>>" Betyder, at det udskrevet i terminalen. Normalt skriver man det 
+# omvendt, så det er al den kode, som ikke vises fra terminalen, som 
+# skal stå med ">>>", men her har jeg gjort det lettere for jer 
+# deltagere at kopiere det for hurtigere at kunne lære med brugen af det
 ```
 
 Man kan også bruge `help()` til at få dokumentation af ting som typer. Man kan altså finde typen af en variabel og derefter bruge ``help()` til at finde ud af, hvad man kan gøre med den variabel.
@@ -36,7 +39,7 @@ Man kan også bruge `help()` til at få dokumentation af ting som typer. Man kan
 min_streng = 'Dette er en streng, jeg skal bruge til et eller andet'
 
 type(min_streng)
->>> str
+>>> <class 'str'>
 
 help(str)
 ```
