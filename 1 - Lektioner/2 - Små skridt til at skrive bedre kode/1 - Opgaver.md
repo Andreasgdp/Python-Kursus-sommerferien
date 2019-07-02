@@ -1,5 +1,5 @@
-# Opgaverne til tredje lektion
-Heri findes opgaverne til tredje lektion omhandlende brugen af forskellige elementer, som vil øge din viden inden for programmering, og samtidig gøre din kode mere læsbar.
+# Opgaverne til anden lektion
+Heri findes opgaverne til anden lektion omhandlende brugen af forskellige elementer, som vil øge din viden inden for programmering, og samtidig gøre din kode mere læsbar.
 
 ---
 
