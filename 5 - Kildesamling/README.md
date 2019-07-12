@@ -25,5 +25,5 @@ Disse kilder er til sammen en guide i brugen af klasser i Python. Kilderne er br
 
 ### 4 - Python Tutorial for Beginners [Full Course] 2019
 #### https://youtu.be/_uQrJ0TkZlc
-Denne kilde handler om det basale omkring Python, men den medtager også noget mere avanceret, da det er en lang gennemgang af Python. Denne kilde er brugt til at lave `"3.1 - Hvad er klasser, og hvad bruger man dem til"`, `"4.1 - Automation med Python"`, `"5.1 - Machine learning med Python"` & `"6.1 - Hjemmesider og databaser med Python"`.
+Denne kilde handler om det basale omkring Python, men den medtager også noget mere avanceret, da det er en lang gennemgang af Python. Denne kilde er brugt til at lave `"3.1 - Hvad er klasser, og hvad bruger man dem til"` & `"4.1 - Automation med Python"`.
 
