@@ -9,8 +9,10 @@ Dette repository indeholder en række lektioner med informationer og opgaver, so
 ## Kurset afholdes online på discord
 For at være med, skal du joine denne server
 
-<iframe src="https://discordapp.com/widget?id=599558169374621726&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
 
+<p align="center">
+  <iframe src="https://discordapp.com/widget?id=599558169374621726&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+</p>
 
 ---
 ## Setup af kursus-mappen
