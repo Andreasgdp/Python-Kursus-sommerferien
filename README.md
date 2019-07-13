@@ -10,9 +10,7 @@ Dette repository indeholder en række lektioner med informationer og opgaver, so
 For at være med, skal du joine denne server
 
 
-<p align="center">
-  <iframe src="https://discordapp.com/widget?id=599558169374621726&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
-</p>
+<iframe src="https://discordapp.com/widget?id=599558169374621726&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
 
 ---
 ## Setup af kursus-mappen
