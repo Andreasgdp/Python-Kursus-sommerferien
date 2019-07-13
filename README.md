@@ -6,7 +6,7 @@ Dette repository indeholder en række lektioner med informationer og opgaver, so
   <img width="300" height="300" src="https://i.imgur.com/vvGEGqu.jpg">
 </p>
 
-## Kurset afholdes online på discord
+## Kurset afholdes online på Discord
 For at være med, skal du joine denne server:
 
 <p align="center">
