@@ -31,7 +31,7 @@ For at indlede, at man gerne vil skrive i en fil skal man åbne den med `'w'`, s
 ---
 
 ## Opgave 4 - Brug af `enumerate()`
-I denne opgave skal du finde det element i listen herunder, der har den samme værdi, som den placering det har i listen. Det første element i listen skal have placeringen `1`
+I denne opgave skal du finde de elementer i listen herunder, der har den samme værdi, som den placering de har i listen. Det første element i listen skal have placeringen `1`
 ```python
 [34, 5, 33, 245, 7, 144, 238, 3, 65847, 368, 46, 45, 547, 368, 6, 34258, 7, 18, 75, 247, 868, 5, 386, 3, 26, 26, 36, 2486, 45, 43, 643, 5, 43, 27, 42, 5, 23]
 ```

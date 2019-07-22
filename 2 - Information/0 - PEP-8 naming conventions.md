@@ -1,4 +1,4 @@
-# Skriv brugervenlig kode med PEP-8 naming conventions
+# Skriv brugervenlig kode med *PEP-8 naming conventions*
 
 ## 1 - Hvad er PEP 8?
 - PEP står for: `Python Enhancement Proposal`
@@ -12,20 +12,20 @@
   - Mest for én selv, men også for andre programmører, som læser koden
 - Brugervenlig kode
   - At følge disse regler er en anden måde at dokumentere éns kode
-  - Det gør det også lettere for programmører (skriver man f.eks. koden til et bibliotek er det vigtig, at koden følger de regler, som de fleste kender til)
+  - Det gør det også lettere for programmører (skriver man f.eks. koden til et bibliotek som math eller matplotlib, er det vigtig, at koden følger de regler, som de fleste kender til)
 
 ---
-## 3 - De vigtigste naming conventions
+## 3 - De vigtigste navngivningskonventioner
 
 ### 3.1 - `normale_variabler`
-- Navne på variabler skal altid være skrevet med små bogstaver (lowercase), hvor ord separeres med underscore
+- Navne på disse variabler skal altid være skrevet med små bogstaver (lowercase), hvor ord separeres med underscore
 
 ```python
 en_otg_lærer = 'Søren Præstegård'
 ```
 
 ### 3.2 - `KONSTANTER`
-I Python kan alle variabler bliver ændret, derfor eksisterer rigtige konstanter ikke. Dog kan man indikere, at en variabel burde blive behandlet, som om det var en konstant.
+I Python kan alle variabler blive ændret, derfor eksisterer rigtige konstanter ikke. Dog kan man indikere, at en variabel burde blive behandlet, som om det var en konstant. Konstanter er altså variabler, som man ikke vil ændre værdien på.
 
 - Navne på konstanter skal skrives kun med store bogstaver (uppercase), hvor ordene separeres med underscore
 
@@ -69,7 +69,7 @@ class OtgLærer:
     return self.name
 
 
-annette_bertelsen = OtgLærer(navn='Annette Bertelsen')
+annette_bertelsen = OtgLærer(navn = 'Annette Bertelsen')
 print(annette_bertelsen)
 ```
 `>>> Annette Bertelsen`
